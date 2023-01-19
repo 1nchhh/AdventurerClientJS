@@ -82,7 +82,7 @@
     "@angular/platform-browser": "^12.2.3",
     "@angular/platform-browser-dynamic": "^12.2.3",
     "@angular/router": "^12.2.3",
-    "crc": "^3.8.0",
+    "crc": "^4.3.1",
     "mjpeg-camera": "^2.0.0",
     "node-log-rotate": "^0.1.5",
     "rxjs": "^7.3.0",
